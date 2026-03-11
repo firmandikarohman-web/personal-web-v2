@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Portfolio Rohman Firmandika - Mengintegrasikan strategi pemasaran ekselen dan manajemen. Freelancer, Digital Marketing, dan GCP Enthusiast.">
+    <meta name="keywords" content="Rohman Firmandika, Portfolio, Marketing Strategy, Digital Marketing, GCP">
+    <meta name="author" content="Rohman Firmandika">
+
+    <title>Rohman Firmandika - Portfolio</title>
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Rohman Firmandika - Portfolio">
+    <meta property="og:description" content="Integrating marketing strategy with management excellence.">
+    <meta property="og:type" content="website">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Parallax Blobs Context -->
+    <div class="blob-wrapper" id="blobWrapper">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <!-- Sticky Navigation -->
+    <nav class="glass-nav sticky-nav">
+        <div class="nav-content">
+            <a href="#home" class="logo">Rohman Firmandika</a>
+            <button class="mobile-menu-btn" aria-label="Toggle Menu">
+                <i data-feather="menu"></i>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#reading-list">Reading List</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Home Section -->
+        <section id="home" class="hero section-scroll">
+            <div class="hero-content">
+                <h1 class="reveal-stagger"><br>Hi, I'm Rohman</h1>
+                <p class="tagline reveal-stagger">Digital Growth & Marketing Strategist.</p>
+
+                <div class="fluid-icons reveal-stagger">
+                    <a href="https://instagram.com/rohmanfirmandika" target="_blank"
+                        class="fluid-icon floating-1 magnetic" aria-label="Instagram"><i
+                            data-feather="instagram"></i></a>
+                    <a href="https://linkedin.com/in/rohman-firmandika" target="_blank"
+                        class="fluid-icon floating-2 magnetic" aria-label="LinkedIn"><i data-feather="linkedin"></i></a>
+                    <a href="https://github.com/firmandikarohman-web" target="_blank"
+                        class="fluid-icon floating-3 magnetic" aria-label="GitHub"><i data-feather="github"></i></a>
+                    <a href="mailto:firmandikarohman@gmail.com" class="fluid-icon floating-4 magnetic"
+                        aria-label="Email"><i data-feather="mail"></i></a>
+                </div>
+            </div>
+
+            <!-- Scroll Down Arrow -->
+            <div class="scroll-down-container">
+                <a href="#about" class="scroll-down-btn reveal-stagger" aria-label="Scroll to About Section">
+                    <i data-feather="chevron-down"></i>
+                </a>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section section-scroll">
+            <h2 class="section-title reveal-stagger">About Me</h2>
+            <div class="glass-card full-width-card reveal-stagger">
+                <div class="about-content">
+                    <div class="about-image-wrapper">
+                        <img src="assets/profile.png" alt="Rohman Firmandika" class="about-image">
+                    </div>
+                    <p class="about-narrative text-lead">
+                        ​"Berawal dari ketertarikan mendalam pada dunia pemasaran dan manajemen, perjalanan eksplorasi saya kini meluas ke ranah teknologi digital. Sebagai mahasiswa Manajemen di Universitas Terbuka, sekaligus praktisi lepas (freelancer), saya berfokus pada titik temu antara bisnis dan teknologi. Saya percaya bahwa kolaborasi antara strategi pemasaran yang matang, pengelolaan keuangan, serta adaptasi inovasi terkini seperti Kecerdasan Buatan (AI) dan ekosistem Cloud adalah kunci untuk menciptakan solusi yang relevan dan berdampak."
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Section -->
+        <section id="portfolio" class="section section-scroll">
+            <h2 class="section-title reveal-stagger">Explore My Portfolio</h2>
+
+            <div class="bento-grid">
+
+                <!-- Category: Certifications -->
+                <div class="glass-card bento-item reveal-stagger glass-sweep carousel-bento">
+                    <div class="bento-content">
+                        <h3>Certifications</h3>
+                        <p class="category">Tech & Marketing</p>
+                        <p class="desc">Sertifikasi untuk mendukung eksekusi.</p>
+
+                        <div class="carousel-wrapper" id="certifications-carousel-wrapper">
+                            <div id="certifications-list" class="carousel-inner">
+                                <!-- Dynamic content -->
+                            </div>
+                            <button class="nav-btn prev" aria-label="Previous Certificate"><i data-feather="chevron-left"></i></button>
+                            <button class="nav-btn next" aria-label="Next Certificate"><i data-feather="chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category: Activities (Daily Log) -->
+                <div class="glass-card bento-item reveal-stagger glass-sweep carousel-bento">
+                    <div class="bento-content">
+                        <h3>My Activity</h3>
+                        <p class="category">Learning & Growth</p>
+                        <p class="desc">Jejak aktifitas pembelajaran.</p>
+                        <div class="carousel-wrapper" id="activities-carousel-wrapper">
+                            <div id="activities-list" class="carousel-inner">
+                                <!-- Dynamic content -->
+                            </div>
+                            <button class="nav-btn prev" aria-label="Previous Activity"><i data-feather="chevron-left"></i></button>
+                            <button class="nav-btn next" aria-label="Next Activity"><i data-feather="chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category: Projects -->
+                <div class="glass-card bento-item bento-large reveal-stagger glass-sweep carousel-bento">
+                    <div class="bento-content">
+                        <h3>Projects & Initiatives</h3>
+                        <p class="category">Real World Impact</p>
+                        <p class="desc">Program dan kegiatan nyata yang fokus pada pemberdayaan dan efisiensi manajemen.
+                        </p>
+
+                        <div class="carousel-wrapper" id="projects-carousel-wrapper">
+                            <div id="projects-list" class="carousel-inner">
+                                <!-- Dynamic content -->
+                            </div>
+                            <button class="nav-btn prev" aria-label="Previous Project"><i data-feather="chevron-left"></i></button>
+                            <button class="nav-btn next" aria-label="Next Project"><i data-feather="chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Reading List Section -->
+        <section id="reading-list" class="section section-scroll mb-large">
+            <h2 class="section-title reveal-stagger">Reading List</h2>
+            <div class="glass-card list-card reveal-stagger">
+                <ul id="reading-list-container" class="minimal-book-list">
+                    <!-- Dynamic content -->
+                </ul>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section section-scroll mb-large">
+            <div class="glass-card contact-card reveal-stagger">
+                <div class="contact-content-wrapper">
+                    <i data-feather="send" class="contact-icon reveal-stagger fly-from-bottom-left"
+                        style="transition-delay: 0.6s;"></i>
+                    <h2 class="get-in-touch-title reveal-stagger emerge-from-button" style="transition-delay: 0.4s;">GET
+                        IN TOUCH!</h2>
+                    <p class="contact-desc reveal-stagger emerge-from-button" style="transition-delay: 0.2s;">
+                        Whether you have an idea for a project or just want to chat, feel free to shoot me an email!
+                    </p>
+                    <a href="mailto:firmandikarohman@gmail.com" class="get-in-touch-btn reveal-stagger"
+                        style="transition-delay: 0.0s;">Say Hello</a>
+                </div>
+            </div>
+        </section>
+
+        <footer class="glass-footer">
+            <div class="footer-socials">
+                <a href="https://instagram.com/rohmanfirmandika" target="_blank" class="footer-icon"
+                    aria-label="Instagram"><i data-feather="instagram"></i></a>
+                <a href="https://linkedin.com/in/rohman-firmandika" target="_blank" class="footer-icon"
+                    aria-label="LinkedIn"><i data-feather="linkedin"></i></a>
+                <a href="https://github.com/firmandikarohman-web" target="_blank" class="footer-icon"
+                    aria-label="GitHub"><i data-feather="github"></i></a>
+                <a href="mailto:firmandikarohman@gmail.com" class="footer-icon" aria-label="Email"><i
+                        data-feather="mail"></i></a>
+            </div>
+            <p>&copy; 2026 Rohman Firmandika. Crafted with purpose.</p>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+        feather.replace();
+    </script>
+</body>
+
+</html>

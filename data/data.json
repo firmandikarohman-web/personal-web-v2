@@ -1,0 +1,147 @@
+{
+  "certifications": [
+    {
+      "title": "Architect AI Agent Systems with Agent-Database Lifecycle",
+      "issuer": "KodingDeepDive x BwAI Jakarta",
+      "link": "https://drive.google.com/drive/folders/1KCxTGzuKRLFZU-AtP3PdDZaE2TByzVmw?usp=sharing",
+      "image": "assets/certs/Agentic-RAG-with-ADK-MCP-Toolbox-Cloud-SQL.png"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)",
+      "issuer": "Certified by Google Skills",
+      "link": "https://www.skills.google/public_profiles/a384c579-e0da-44d9-b8df-b632e73d4e62",
+      "image": "assets/certs/Screenshot 2026-03-11 232303.png"
+    },
+    {
+      "title": "Blockchain in the Age of Al: Building Trust, Verification & Accountability",
+      "issuer": "Certified by Exabytes Indonesia",
+      "link": "https://drive.google.com/file/d/1PhN7atjZxQK61clkhr8anmfP3A5kPbZR/view?usp=drivesdk",
+      "image": "assets/certs/Certified from Exabytes.jpg"
+    },
+    {
+      "title": "Use Mailchimp to Build an E-mail Marketing Campaign",
+      "issuer": "Certified by Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/EPF7UWCKIBTM",
+      "image": "assets/certs/CERTIFICATE_LANDING_PAGE~EPF7UWCKIBTM.jpeg"
+    },
+    {
+      "title": "Use Canva to Design Digital Course Collateral",
+      "issuer": "Certified by Coursera",
+      "link": "https://coursera.org/verify/F0CNTXMNT0QZ",
+      "image": "assets/certs/CERTIFICATE_LANDING_PAGE~F0CNTXMNT0QZ.jpeg"
+    },
+    {
+      "title": "Google Ads - Measurement",
+      "issuer": "Certified by Skillshop",
+      "link": "https://skillshop.credential.net/b32eacaf-6ab1-480b-b640-de45dd4af702",
+      "image": "assets/certs/wnu164la_1763970727320_page-0001.jpg"
+    },
+    {
+      "title": "Google Ads Display",
+      "issuer": "Certified by Skillshop",
+      "link": "https://skillshop.credential.net/01af4528-d788-4cc5-a5c2-808d7743f474",
+      "image": "assets/certs/6eapy0lq_1763792099015_page-0001.jpg"
+    },
+    {
+      "title": "Demand Generation",
+      "issuer": "Certified by Skillshop",
+      "link": "https://skillshop.credential.net/675d3223-073a-456d-a80f-4103cb63fe64",
+      "image": "assets/certs/l272p7my_1762399707447_page-0001.jpg"
+    }
+  ],
+  "activities": [
+    {
+      "date": "9 Mar 26",
+      "title": "AI Prototyping Sandbox: Mastering Google AI Studio",
+      "location": "Virtual - Google for Startups",
+      "image": "https://via.placeholder.com/400x225?text=Activity+1"
+    },
+    {
+      "date": "9 Mar 26",
+      "title": "The AI-Native Workflow: Shipping Products at Startup Speed",
+      "location": "Virtual - Google for Startups",
+      "image": "https://via.placeholder.com/400x225?text=Activity+2"
+    },
+    {
+      "date": "7 Mar 26",
+      "title": "KodingDeepDive x BwAI Jakarta",
+      "location": "Ganara Art Space (Garuda Spark Innovation Hub), fX Sudirman, 8th floor.",
+      "image": "https://via.placeholder.com/400x225?text=Activity+3"
+    },
+    {
+      "date": "7 Mar 26",
+      "title": "Talk Series #2: From Code to Cloud — Building and Deploying REST APIs with Google Cloud",
+      "location": "Virtual - Google for Startups",
+      "image": "https://via.placeholder.com/400x225?text=Activity+4"
+    },
+    {
+      "date": "5 Mar 26",
+      "title": "AI Creative Studio: Generating Copy, Designs, and Prototypes",
+      "location": "Virtual - Google for Startups",
+      "image": "https://via.placeholder.com/400x225?text=Activity+5"
+    },
+    {
+      "date": "3 - 12 Mar 26",
+      "title": "Startup School: Prompt to Prototype",
+      "location": "Virtual - Google for Startups",
+      "image": "https://via.placeholder.com/400x225?text=Activity+6"
+    }
+  ],
+  "projects": [
+    {
+      "title": "StudyOS v8.4",
+      "description": "Aplikasi sederhana untuk memanage waktu, kegiatan dan pembelajaran",
+      "link": "https://uji-coba-studyos.netlify.app/",
+      "image": "assets/projects/Screenshot 2026-03-12 000358.png"
+    },
+    {
+      "title": "Dompet v0.3",
+      "description": "Aplikasi sederhana untuk memanage keuangan, yang disinkronkan untuk kebutuhan laporan reimbursement",
+      "link": "https://dompet-v003.netlify.app/",
+      "image": "https://via.placeholder.com/400x225?text=Project+2"
+    },
+    {
+      "title": "UpSkillU.id",
+      "description": "Pemberdayaan generasi muda melalui kegiatan Bootcamp di Cicurug sebagai upaya peningkatan keterampilan digital",
+      "link": "https://www.instagram.com/upskillu.id/",
+      "image": "https://via.placeholder.com/400x225?text=Project+3"
+    }
+  ],
+  "readingList": [
+    {
+      "title": "Prinsipil Ekonomi",
+      "author": "Ferry Irwandi",
+      "rating": "10/10",
+      "review": "Mengenal dasar dari ekonomi dengan pemahaman yang lebih sederhana.",
+      "cover": "assets/books/prinsipil-ekonomi.png"
+    },
+    {
+      "title": "Makanya, Mikir!",
+      "author": "Cania & Abigail",
+      "rating": "10/10",
+      "review": "Tentang kerangka berpikir dan pengambilan keputusan.",
+      "cover": "assets/books/makanya-mikir.png"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "rating": "10/10",
+      "review": "Fundamental untuk sistem produktivitas dan manjemen diri.",
+      "cover": "assets/books/atomic-habits.svg"
+    },
+    {
+      "title": "Positioning",
+      "author": "Al Ries & Jack Trout",
+      "rating": "9/10",
+      "review": "Esensi dari menciptakan persepsi produk di benak audiens.",
+      "cover": "assets/books/positioning.svg"
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "rating": "9/10",
+      "review": "Sistematisasi hidup dan pengambilan keputusan berbasis realitas.",
+      "cover": "assets/books/principles.svg"
+    }
+  ]
+}

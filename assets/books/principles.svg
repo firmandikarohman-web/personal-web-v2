@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50"/>
+      <stop offset="100%" style="stop-color:#34495e"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" rx="8" fill="url(#bg)"/>
+  <!-- Geometric lines -->
+  <line x1="60" y1="120" x2="240" y2="120" stroke="#f1c40f" stroke-width="3"/>
+  <line x1="80" y1="160" x2="220" y2="160" stroke="#f1c40f" stroke-width="2" opacity="0.7"/>
+  <line x1="100" y1="200" x2="200" y2="200" stroke="#f1c40f" stroke-width="2" opacity="0.5"/>
+  <line x1="60" y1="240" x2="240" y2="240" stroke="#f1c40f" stroke-width="3"/>
+  <!-- Diamond shape -->
+  <polygon points="150,140 190,190 150,240 110,190" fill="none" stroke="#f1c40f" stroke-width="2.5"/>
+  <!-- Title -->
+  <text x="150" y="330" text-anchor="middle" fill="white" font-family="Georgia, serif" font-size="32" font-weight="bold">Principles</text>
+  <text x="150" y="365" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif" font-size="16">Ray Dalio</text>
+</svg>
