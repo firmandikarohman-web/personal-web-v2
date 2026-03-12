@@ -92,7 +92,7 @@
       "title": "StudyOS v8.4",
       "description": "Aplikasi sederhana untuk memanage waktu, kegiatan dan pembelajaran",
       "link": "https://uji-coba-studyos.netlify.app/",
-      "image": "assets/projects/Screenshot 2026-03-12 000358.png"
+      "image": "assets/project/Screenshot 2026-03-12 000358.png"
     },
     {
       "title": "Dompet v0.3",
@@ -145,4 +145,5 @@
     }
   ]
 }
+
 
