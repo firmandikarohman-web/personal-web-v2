@@ -113,38 +113,18 @@
       "author": "Ferry Irwandi",
       "rating": "10/10",
       "review": "Mengenal dasar dari ekonomi dengan pemahaman yang lebih sederhana.",
-      "cover": "assets/books/prinsipil-ekonomi.png"
+      "cover": "assets/books/prinsipil_ekonomi.png"
     },
     {
       "title": "Makanya, Mikir!",
       "author": "Cania & Abigail",
       "rating": "10/10",
       "review": "Tentang kerangka berpikir dan pengambilan keputusan.",
-      "cover": "assets/books/makanya-mikir.png"
-    },
-    {
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "rating": "10/10",
-      "review": "Fundamental untuk sistem produktivitas dan manjemen diri.",
-      "cover": "assets/books/atomic-habits.svg"
-    },
-    {
-      "title": "Positioning",
-      "author": "Al Ries & Jack Trout",
-      "rating": "9/10",
-      "review": "Esensi dari menciptakan persepsi produk di benak audiens.",
-      "cover": "assets/books/positioning.svg"
-    },
-    {
-      "title": "Principles",
-      "author": "Ray Dalio",
-      "rating": "9/10",
-      "review": "Sistematisasi hidup dan pengambilan keputusan berbasis realitas.",
-      "cover": "assets/books/principles.svg"
+      "cover": "assets/books/makanya_mikir.png"
     }
   ]
 }
+
 
 
 
