@@ -4,13 +4,13 @@
       "title": "Architect AI Agent Systems with Agent-Database Lifecycle",
       "issuer": "KodingDeepDive x BwAI Jakarta",
       "link": "https://drive.google.com/drive/folders/1KCxTGzuKRLFZU-AtP3PdDZaE2TByzVmw?usp=sharing",
-      "image": "assets/certs/Agentic-RAG-with-ADK-MCP-Toolbox-Cloud-SQL.png"
+      "image": "assets/certs/bwai.png"
     },
     {
       "title": "Google Cloud Platform (GCP)",
       "issuer": "Certified by Google Skills",
       "link": "https://www.skills.google/public_profiles/a384c579-e0da-44d9-b8df-b632e73d4e62",
-      "image": "assets/certs/Screenshot 2026-03-11 232303.png"
+      "image": "assets/certs/gcp.png"
     },
     {
       "title": "Blockchain in the Age of Al: Building Trust, Verification & Accountability",
@@ -22,31 +22,31 @@
       "title": "Use Mailchimp to Build an E-mail Marketing Campaign",
       "issuer": "Certified by Coursera",
       "link": "https://www.coursera.org/account/accomplishments/verify/EPF7UWCKIBTM",
-      "image": "assets/certs/CERTIFICATE_LANDING_PAGE~EPF7UWCKIBTM.jpeg"
+      "image": "assets/certs/use_mailchimp.png"
     },
     {
       "title": "Use Canva to Design Digital Course Collateral",
       "issuer": "Certified by Coursera",
       "link": "https://coursera.org/verify/F0CNTXMNT0QZ",
-      "image": "assets/certs/CERTIFICATE_LANDING_PAGE~F0CNTXMNT0QZ.jpeg"
+      "image": "assets/certs/use_canva.png"
     },
     {
       "title": "Google Ads - Measurement",
       "issuer": "Certified by Skillshop",
       "link": "https://skillshop.credential.net/b32eacaf-6ab1-480b-b640-de45dd4af702",
-      "image": "assets/certs/wnu164la_1763970727320_page-0001.jpg"
+      "image": "assets/certs/measurement.png"
     },
     {
       "title": "Google Ads Display",
       "issuer": "Certified by Skillshop",
       "link": "https://skillshop.credential.net/01af4528-d788-4cc5-a5c2-808d7743f474",
-      "image": "assets/certs/6eapy0lq_1763792099015_page-0001.jpg"
+      "image": "assets/certs/ads_display.png"
     },
     {
       "title": "Demand Generation",
       "issuer": "Certified by Skillshop",
       "link": "https://skillshop.credential.net/675d3223-073a-456d-a80f-4103cb63fe64",
-      "image": "assets/certs/l272p7my_1762399707447_page-0001.jpg"
+      "image": "assets/certs/demand_gen.png"
     }
   ],
   "activities": [
@@ -145,3 +145,4 @@
     }
   ]
 }
+
