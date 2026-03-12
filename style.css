@@ -502,7 +502,7 @@ main {
     padding: 60px;
     border-radius: 32px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     position: relative;
     overflow: hidden;
 }
