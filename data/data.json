@@ -51,40 +51,22 @@
   ],
   "activities": [
     {
-      "date": "9 Mar 26",
-      "title": "AI Prototyping Sandbox: Mastering Google AI Studio",
-      "location": "Virtual - Google for Startups",
-      "image": "https://via.placeholder.com/400x225?text=Activity+1"
-    },
-    {
-      "date": "9 Mar 26",
-      "title": "The AI-Native Workflow: Shipping Products at Startup Speed",
-      "location": "Virtual - Google for Startups",
-      "image": "https://via.placeholder.com/400x225?text=Activity+2"
+      "date": "7 Mar 26",
+      "title": "KodingDeepDive x BwAI Jakarta",
+      "location": "Ganara Art Space (Garuda Spark Innovation Hub), fX Sudirman, 8th floor.",
+      "image": "assets/activity/bwai1.png"
     },
     {
       "date": "7 Mar 26",
       "title": "KodingDeepDive x BwAI Jakarta",
       "location": "Ganara Art Space (Garuda Spark Innovation Hub), fX Sudirman, 8th floor.",
-      "image": "https://via.placeholder.com/400x225?text=Activity+3"
+      "image": "assets/activity/bwai2.png"
     },
     {
       "date": "7 Mar 26",
-      "title": "Talk Series #2: From Code to Cloud — Building and Deploying REST APIs with Google Cloud",
-      "location": "Virtual - Google for Startups",
-      "image": "https://via.placeholder.com/400x225?text=Activity+4"
-    },
-    {
-      "date": "5 Mar 26",
-      "title": "AI Creative Studio: Generating Copy, Designs, and Prototypes",
-      "location": "Virtual - Google for Startups",
-      "image": "https://via.placeholder.com/400x225?text=Activity+5"
-    },
-    {
-      "date": "3 - 12 Mar 26",
-      "title": "Startup School: Prompt to Prototype",
-      "location": "Virtual - Google for Startups",
-      "image": "https://via.placeholder.com/400x225?text=Activity+6"
+      "title": "KodingDeepDive x BwAI Jakarta",
+      "location": "Ganara Art Space (Garuda Spark Innovation Hub), fX Sudirman, 8th floor.",
+      "image": "assets/activity/bwai3.png"
     }
   ],
   "projects": [
@@ -124,6 +106,7 @@
     }
   ]
 }
+
 
 
 
