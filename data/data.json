@@ -92,19 +92,19 @@
       "title": "StudyOS v8.4",
       "description": "Aplikasi sederhana untuk memanage waktu, kegiatan dan pembelajaran",
       "link": "https://uji-coba-studyos.netlify.app/",
-      "image": "assets/project/Screenshot 2026-03-12 000358.png"
+      "image": "assets/project/studyos.png"
     },
     {
       "title": "Dompet v0.3",
       "description": "Aplikasi sederhana untuk memanage keuangan, yang disinkronkan untuk kebutuhan laporan reimbursement",
       "link": "https://dompet-v003.netlify.app/",
-      "image": "https://via.placeholder.com/400x225?text=Project+2"
+      "image": "assets/project/dompet.png"
     },
     {
       "title": "UpSkillU.id",
       "description": "Pemberdayaan generasi muda melalui kegiatan Bootcamp di Cicurug sebagai upaya peningkatan keterampilan digital",
       "link": "https://www.instagram.com/upskillu.id/",
-      "image": "https://via.placeholder.com/400x225?text=Project+3"
+      "image": "assets/project/upskillu.png"
     }
   ],
   "readingList": [
@@ -145,5 +145,6 @@
     }
   ]
 }
+
 
 
