@@ -103,6 +103,13 @@
       "rating": "10/10",
       "review": "Tentang kerangka berpikir dan pengambilan keputusan.",
       "cover": "assets/books/makanya_mikir.png"
+    },
+    {
+      "title": "From Zero to Survive",
+      "author": "Theo Derick",
+      "rating": "10/10",
+      "review": "Seni Menang Dalam Hidup dengan Realistis.",
+      "cover": "assets/books/from-zero-to-survive.jpg"
     }
   ]
 }
