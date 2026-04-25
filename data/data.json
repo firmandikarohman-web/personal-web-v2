@@ -1,6 +1,12 @@
 {
   "certifications": [
     {
+      "title": "Pemanfaatan AI di Pemerintahan",
+      "issuer": "Government Transformation Academy",
+      "link": "https://drive.google.com/file/d/1alkTC6nsLg5ub8CfIe_-rX3Jb3qk1xmD/view?usp=drive_link",
+      "image": "assets/certs/Sertifikat_ROHMAN FIRMANDIKA_Pemanfaatan AI di Pemerintahan_page-0001.jpg"
+    },
+    {
       "title": "Architect AI Agent Systems with Agent-Database Lifecycle",
       "issuer": "KodingDeepDive x BwAI Jakarta",
       "link": "https://drive.google.com/drive/folders/1KCxTGzuKRLFZU-AtP3PdDZaE2TByzVmw?usp=sharing",
